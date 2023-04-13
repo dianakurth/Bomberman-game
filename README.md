@@ -1,5 +1,5 @@
 # Bomberman-game
-To run this code correctly you need Python 3.x and libraries: PyQt5, random, heapq, PyQt5.QtGui, PyQt.QtWidgets and PyQt.QtCore. <br />
+To run this code correctly you need Python 3.x and libraries: PyQt5, random, heapq, PyQt5.QtGui, PyQt.QtWidgets and PyQt.QtCore. You need main.py, images_rc.py and items.py all in the same folder. <br />
 <br />
 You can control player by using arrow keys on you keboard or by pressing on the player and dragging it to the place you want him to go. It will find the shortest way if one exists and player will move to destination. <br />
 <br />
